@@ -570,8 +570,4 @@ Use `--debug` only when necessary, and redact tokens, account details, and other
 *Cloud skills are built one hands-on lab at a time.*
 
 </div>
-'''
 
-output_path = "/mnt/data/README.md"
-pypandoc.convert_text(content, "md", format="md", outputfile=output_path, extra_args=["--standalone"])
-print(f"Created: {output_path}")
