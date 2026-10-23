@@ -1,6 +1,4 @@
-import pypandoc
 
-content = r'''<div align="center">
 
 # ☁️ AWS & AWS CLI — Complete Notes & Cheat Sheet
 
